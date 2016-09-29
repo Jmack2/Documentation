@@ -16,8 +16,8 @@
 
 #Procedures
   -Basic written instructions
-	-Youtube videos
-	-Directions on how to use the software to complete the tasks that it is designed to support.
+  -Youtube videos
+  -Directions on how to use the software to complete the tasks that it is designed to support.
 
 #Information on Software Commands
 	-A description of each of the commands supported by the software. 
