@@ -11,7 +11,7 @@ The objective of ET_Redux is to extend its architecture to U-series analyses in 
 ##Policies that affect the system
 ET_Redux is sponsored by EARTHTIME and the Nationl Science Foundation.
 
-###Project
+###Project- definition TBD
 
 ##Starting ET_Redux and starting data reduction
 
@@ -29,8 +29,7 @@ Primary Reference Material: FC1-Anorthosite from Forest Center
 
 Now, you can begin the data reduction process. There are two different types of data reduction: live data reduction and the raw data manager.
 
-####Sample
-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
+####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
 
 Click Sample and then select ID-TIMS. The ID-TIMS Workflow Manager window will open. 
 
