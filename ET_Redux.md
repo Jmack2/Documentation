@@ -11,7 +11,7 @@ The objective of ET_Redux is to extend its architecture to U-series analyses in 
 ##Policies that affect the system
 ET_Redux is sponsored by EARTHTIME and the Nationl Science Foundation.
 
-###Project- definition TBD
+####Project- collection of samples
 
 ##Starting ET_Redux and starting data reduction
 
