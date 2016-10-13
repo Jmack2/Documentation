@@ -9,7 +9,7 @@ The documentation below is essentially a set of step by step instructions on how
 The objective of ET_Redux is to extend its architecture to U-series analyses in addition to IDTIMS and LA-ICPMS U-Pb data reduction, uncertainty propagation, and visualization for any U-bearing phase. ET_Redux supplies sophisticated graphical and statistical tools for data analysis and compilation. These include interactive data tables, concordia and weighted mean plots, dynamic decomposition of uncertainties into contributions from individual sources, and algorithms for propagation of systematic uncertainties in tracer calibration and decay constants. ET_Redux also generates these outputs as publication-ready vector graphics files.
 
 ##Policies that affect the system
-ET_Redux is sponsored by EARTHTIME and the Nationl Science Foundation.
+ET_Redux is sponsored by EARTHTIME and the National Science Foundation.
 
 ####Project- collection of samples
 
