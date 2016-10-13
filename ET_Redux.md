@@ -59,4 +59,4 @@ Fill in the designated fields:
 	13. Primary Reference Material: FC1-Anorthosite from Forest Center
 	14. Now we are ready to start the reduction process. From this point, you will be able to start live data reduction, which is explained below in the Raw Data Manager part of the documentation.
 
-#####New Sample Anaylisis for ID-TIMS
+#####New Sample Analysis for ID-TIMS
