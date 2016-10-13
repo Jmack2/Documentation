@@ -41,10 +41,10 @@ Fill in the designated fields:
 	Analysis Purpose
 	Set Physical Constants Model
 
-####Procedures
+##Procedures
 -Basic written instructions -Youtube videos -Directions on how to use the software to complete the tasks that it is designed to support.
 
-   #####New Project from Raw Data
+#####New Project from Raw Data
    	1.Open ET_Redux.
 	2.Once you have opened ET_Redux, you will have three icons appear on your desktop, which is expected so don’t delete them.
 	3.To start, click Project in the top left corner.
@@ -59,4 +59,4 @@ Fill in the designated fields:
 	13. Primary Reference Material: FC1-Anorthosite from Forest Center
 	14. Now we are ready to start the reduction process. From this point, you will be able to start live data reduction, which is explained below in the Raw Data Manager part of the documentation.
 
-   #####New Sample Anaylisis for ID-TIMS
+#####New Sample Anaylisis for ID-TIMS
