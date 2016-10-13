@@ -40,3 +40,7 @@ Fill in the designated fields:
 	Registry
 	Analysis Purpose
 	Set Physical Constants Model
+
+####Procedures
+-Basic written instructions -Youtube videos -Directions on how to use the software to complete the tasks that it is designed to support.
+-New Project from Raw Data
