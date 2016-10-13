@@ -44,4 +44,19 @@ Fill in the designated fields:
 ####Procedures
 -Basic written instructions -Youtube videos -Directions on how to use the software to complete the tasks that it is designed to support.
 
-#####New Project from Raw Data
+   #####New Project from Raw Data
+   	1.Open ET_Redux.
+	2.Once you have opened ET_Redux, you will have three icons appear on your desktop, which is expected so don’t delete them.
+	3.To start, click Project in the top left corner.
+	4.Then, click New Project from Raw Data.
+	5.Click, LA-ICP-MS
+	6.Now, you will see the Project Manager interface; you have the ability to customize your project. You can start by entering your Project Name
+		-Handling Protocol:
+		-Raw data template:
+		-Analysis purpose:
+	10. Finally, press "Prepare to load/Process Raw Data." Then, you will be able to select your data folder and hit Open. Make sure that all necessary files are in the same folder!! .dat files and scanlist!
+	12. Full Uncertainty should be checked!
+	13. Primary Reference Material: FC1-Anorthosite from Forest Center
+	14. Now we are ready to start the reduction process. From this point, you will be able to start live data reduction, which is explained below in the Raw Data Manager part of the documentation.
+
+   #####New Sample Anaylisis for ID-TIMS
