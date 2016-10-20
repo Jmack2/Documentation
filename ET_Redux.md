@@ -71,4 +71,17 @@ data.
 	8. When a grain is removed be patient, it will take until the next FC grain to update the session.
 	9. If you need to refresh, hit Refresh Views
 	10. Wait until the run has completed and proceed to Project Raw Data Manager section.
+
+#####Project Raw Data Manager (to be revised)
+	1. To make your view easier:
+		a. Y-axis Scaling set to Independent
+		b. Also press Show All Local Y-axis
+	2. Proceed to look through all your reference materials to make sure your ratios are within the acceptable rages. It will be very clear when an analysis is bad. You will either see a very large scatter in data points or the fit line will be far off the data points.
+	3. Once you have looked over your data points proceed to click on the Show Session button
+	4. You will now be directed to the Fractionation Plots. Here is where we will remove any poorly behaved reference material analysis and hopefully achieve an MSWD of 1.0
+	5. To remove a data point, hover over an errant black spot and right click. You will be asked to “exclude this fraction, click on it and the black dot will change to red indicating it has been removed.
+	6. Once you have removed all unwanted data points you MUST hit refit, so that the changes you have made update the plot and MSWD. You can play with which fit function you like, but generally we utilize the line
+	7. When you are happy with your fits, to complete your reduction hit update report table. Once you click the update report table button it will be grayed out which indicates that it is working. Wait until it finishes indicated by the greyed returning to white
+	8. Press Save in the bottom left hand corner and then close the window
+	
 #####New Sample Analysis for ID-TIMS
