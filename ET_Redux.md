@@ -11,8 +11,6 @@ The objective of ET_Redux is to extend its architecture to U-series analyses in 
 ##Policies that affect the system
 ET_Redux is sponsored by EARTHTIME and the National Science Foundation.
 
-####Project- collection of samples
-
 ##Starting ET_Redux and starting data reduction
 
 Open ET_Redux and when the window opens click “Project” in the upper left-hand corner. Then, click New Project from Raw Data and select LA-ICP-MS. Selecting this option brings up the Project Manager window. Once the window is open fill in the designated data fields:
@@ -29,8 +27,6 @@ Primary Reference Material: FC1-Anorthosite from Forest Center
 
 Now, you can begin the data reduction process. There are two different types of data reduction: live data reduction and the raw data manager.
 
-####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
-
 Click Sample and then select ID-TIMS. The ID-TIMS Workflow Manager window will open. 
 
 Fill in the designated fields:
@@ -42,7 +38,7 @@ Fill in the designated fields:
 	Set Physical Constants Model
 
 ##Procedures
--Basic written instructions -Youtube videos -Directions on how to use the software to complete the tasks that it is designed to support.
+(-Youtube videos)
 
 #####New Project from Raw Data
    	1.Open ET_Redux.
@@ -85,3 +81,7 @@ data.
 	8. Press Save in the bottom left hand corner and then close the window
 	
 #####New Sample Analysis for ID-TIMS
+
+##Glossary
+####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
+####Project- collection of samples
