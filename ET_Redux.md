@@ -63,11 +63,8 @@ Fill in the designated fields:
 	1. Press, Save and Monitor/Process Raw Data
 	2. Once launched you will have to wait for at least 3-4 analysis to be reduced before seeing any
 data.
-	3. To remove unwanted analysis, right click on the selected grain in your report table located
-below concordia, it will now be sent to the
-rejected fractions tab but will still be reduced
-	4. To look at individual groups of grains
-(Standards or Unknowns), click on the sample name in the left hand column, a drop down menu will appear with all available groups to view on Concordia and on the PDF.
+	3. To remove unwanted analysis, right click on the selected grain in your report table located below concordia, it will now be sent to the rejected fractions tab but will still be reduced
+	4. To look at individual groups of grains (Standards or Unknowns), click on the sample name in the left hand column, a drop down menu will appear with all available groups to view on Concordia and on the PDF.
 	5. To set different filters, adjust them under the PDF. To apply them to the Concordia plot, select apply filters under the Concordia.
 	6. To change what ages are shown on the PDF, select one of the three ages (6/8, 6/7, or best age). We suggest the best age option.
 	7. Best age filter can be changed while you are looking at unknowns in Concordia space
