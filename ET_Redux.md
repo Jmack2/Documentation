@@ -13,30 +13,6 @@ ET_Redux is sponsored by EARTHTIME and the National Science Foundation.
 
 ##Starting ET_Redux and starting data reduction
 
-Open ET_Redux and when the window opens click “Project” in the upper left-hand corner. Then, click New Project from Raw Data and select LA-ICP-MS. Selecting this option brings up the Project Manager window. Once the window is open fill in the designated data fields:
-	
-	•	Project name
-	•	Handling Protocol: Laserchron Element II Folder of .dat files
-	•	Raw data template: Laserchron Element II 202-235-238
-	•	Analysis purpose: Detrital Spectrum
-	
-Then, press “Prepare to Load/Process Raw Data.” Select your data folder and click Open, while making sure that all files are in the same folder (especially .dat files and scanlist).
- Make sure that full uncertainty is checked and fill out the 
-
-Primary Reference Material: FC1-Anorthosite from Forest Center
-
-Now, you can begin the data reduction process. There are two different types of data reduction: live data reduction and the raw data manager.
-
-Click Sample and then select ID-TIMS. The ID-TIMS Workflow Manager window will open. 
-
-Fill in the designated fields:
-	Local Sample Name
-	Sample ID
-	Aliquot Name
-	Registry
-	Analysis Purpose
-	Set Physical Constants Model
-
 ##Procedures
 (-Youtube videos)
 
