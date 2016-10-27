@@ -84,3 +84,6 @@ Fill in the designated fields:
 ##Glossary
 ####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
 ####Project- collection of samples
+####Sample
+####Aliquot
+####Fraction
