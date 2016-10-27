@@ -18,3 +18,6 @@
   -Basic written instructions
   -Youtube videos
   -Directions on how to use the software to complete the tasks that it is designed to support.
+
+#Glossary
+	-Definitions of specialized terms used. 
