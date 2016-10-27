@@ -80,10 +80,18 @@ Fill in the designated fields:
 	8. Press Save in the bottom left hand corner and then close the window.
 	
 #####New Sample Analysis for ID-TIMS
+	1. Go to Sample and click New Sample Analysis for ID-TIMS.
+	2. ID-TIMS Workflow Manager for ANALYSIS MODE of a Sample
+	3. Choose the Local Sample Name and fill in that field.
+	4. Choose between Sesar and GeochronID for the Registry and fill in the Sample ID IGSN.
+	5. Select Analysis Purpose and choose the Set Phsyical Constants Model.
+	6. Under Aliquot name, click Add Name and the information for the new Aliquot will be displayed in the blue box. The information that will be displayed includes, Fraction ID, Tracer, Tracer Mass, Fraction Mass, Pb Blank, Initial Pb model, Est. Date, and the Pb Blank Mass.
+	7. The user has the option to remove the selected Aliquot or save it as a sample.
 
 ##Glossary
 ####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
 ####Project- collection of samples
-####Sample
-####Aliquot
-####Fraction
+####Sample-composed of aliquots or physical pieces of the sample. It is a single collection of geologic material from one place.
+####Aliquot- phsyical pieces of a sample whose dates you wish to interpret seperately.
+####Fraction- a paired U+Pb analysis
+####Live Workflow- establishes a direct link between Tripoli (another CIRDLES software product) and ET_Redux.
