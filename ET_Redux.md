@@ -72,7 +72,7 @@ ET_Redux is sponsored by EARTHTIME and funded in part by the National Science Fo
   * three
   
 
-##Glossary (needs work - has two definitions of Sample)
+##Glossary
 ####Aliquot- phsyical pieces of a sample whose dates you wish to interpret seperately.
 ####Fraction- a paired U+Pb analysis
 ####Live Workflow- establishes a direct link between Tripoli (another CIRDLES software product) and ET_Redux.
