@@ -73,9 +73,8 @@ ET_Redux is sponsored by EARTHTIME and funded in part by the National Science Fo
   
 
 ##Glossary (needs work - has two definitions of Sample)
-####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR.
-####Project- collection of samples
-####Sample-composed of aliquots or physical pieces of the sample. It is a single collection of geologic material from one place.
 ####Aliquot- phsyical pieces of a sample whose dates you wish to interpret seperately.
 ####Fraction- a paired U+Pb analysis
 ####Live Workflow- establishes a direct link between Tripoli (another CIRDLES software product) and ET_Redux.
+####Project- collection of samples
+####Sample-A single collection of a geologic material (usually rock or mineral) from one location. A sample has a lab specific name and a unique identifier such as the IGSN provided by SESAR. It is composed of aliquots or physical pieces of the sample.
