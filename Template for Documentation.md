@@ -19,20 +19,5 @@
 -Youtube videos
 -Directions on how to use the software to complete the tasks that it is designed to support.
 
-#Information on Software Commands
--A description of each of the commands supported by the software. 
-
-
-#Error Messages and problem resolution
--A description of the errors that can be reported and how to recover from these errors. 
-
-
 #Glossary
--Definitions of specialized terms used. 
-
-
-#Related information sources
--References or links to other documents that provide additional information
-
-#Navigational Features &Search capability
-
+-Definitions of specialized terms used.
