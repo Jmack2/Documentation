@@ -59,4 +59,9 @@ When on your android tablet, Chroni will be stored in your applications menu. Cl
 1. You can also click the Home button in order to return to the Home Screen or the Reset button to clear both input fields and get a notification saying "Credentials erased."
 
 #Glossary
-Probability Density (Function) - the density of a continuous random variable. This describes the likelihood for the random variable to take on a given value.
+####Aliquot - 
+####Concordia - 
+####Fraction - 
+####Isotopic Ratios - 
+####Probability Density (Function) - the density of a continuous random variable. This describes the likelihood for the random variable to take on a given value.
+####Report Settings - 
