@@ -23,14 +23,15 @@ The documentation template structure was built by using certain components liste
 -Purpose of Software -When and who created software -Brief summary of the contents
 
 ###Information for use of Documentation
--suggestions for different readers on how to use the documentation effectively\s\s
+-suggestions for different readers on how to use the documentation effectively
 (e.g. there are videos for auditory and visual learners, step by step instructions on the website, etc.)
 
 ###Concept of operations
 -An explanation of the conceptual background to the use of the software.
 
 ###Procedures
--Basic written instructions -Youtube videos -Directions on how to use the software<br> to complete the tasks that it is designed to support.
+-Basic written instructions -Youtube videos -Directions on how to use the software
+to complete the tasks that it is designed to support.
 
 ###Glossary
 -Definitions of specialized terms used.
