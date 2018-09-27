@@ -39,6 +39,7 @@ to complete the tasks that it is designed to support.
 Users can customize this template by adding their own content to the given sections, remove certain sections, or add new sections to the template when they fork this repository.
 
 ##Publishing your Content
+
 After original content has been added to the template, the user can try different methods to publish their documentation. The CIRDLES website requires different parts of the menu hierarchy to function as different pages, which explains why each section needs its own file. Therefore, you must copy and paste each section of the documentation into seperate files if this is how the hierarchy of your website functions. For example, the Introduction to Software section should have its own file, Concept of Operations should have its own file, etc.
 
 Additionally, users can use GitHub Pages to create a branch called gh-pages in your repository. Github will build the site automatically and your site will be published at http://yourusername.github.io/repositoryname/. If you would like to have your website hosted elsewhere, than you can look at [Jekyll](http://import.jekyllrb.com/docs/home/) documentation for more information.
