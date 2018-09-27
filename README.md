@@ -12,33 +12,33 @@ In addition to these broader requirements, the documentatin is specifically desi
 
 However, this documentation needed to be accomodating for all skill levels, as well as end-users and system administrators. The end-user will need the documentation in order to specifically use the software and system administrators must use the documentation to manage the software. Since CIRDLES software is open source, this is a unique situation that allows users to directly interact with system administrators or make their modifications to the software almost like informal system administrators.
 
-##Using the Template
+## Using the Template
 The documentation template structure was built by using certain components listed in Sommerville's book, which are the Introduction, Information for use of Documentation, Concept of Operations, Procedures, and Glossary sections as seen below.
 
 ```markdown
-###Template for User Documentation (Functional Description)
+### Template for User Documentation (Functional Description)
 -Introductory Manual: informal introduction to system, describing normal usage
 
-###Introduction to Software
+### Introduction to Software
 -Purpose of Software -When and who created software -Brief summary of the contents
 
-###Information for use of Documentation
+### Information for use of Documentation
 -suggestions for different readers on how to use the documentation effectively
 (e.g. there are videos for auditory and visual learners, step by step instructions on the website, etc.)
 
-###Concept of operations
+### Concept of operations
 -An explanation of the conceptual background to the use of the software.
 
-###Procedures
+### Procedures
 -Basic written instructions -Youtube videos -Directions on how to use the software
 to complete the tasks that it is designed to support.
 
-###Glossary
+### Glossary
 -Definitions of specialized terms used.
 ```
 Users can customize this template by adding their own content to the given sections, remove certain sections, or add new sections to the template when they fork this repository.
 
-##Publishing your Content
+## Publishing your Content
 
 After original content has been added to the template, the user can try different methods to publish their documentation. The CIRDLES website requires different parts of the menu hierarchy to function as different pages, which explains why each section needs its own file. Therefore, you must copy and paste each section of the documentation into seperate files if this is how the hierarchy of your website functions. For example, the Introduction to Software section should have its own file, Concept of Operations should have its own file, etc.
 
